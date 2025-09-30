@@ -10,7 +10,7 @@ It was trained on a custom dataset of leaf images and can be applied in smart ag
 
 ## 📂 Project Structure
 - `train_and_detect.ipynb` → Training + detection notebook
-- `best.pt` → Trained YOLOv8 weights (link if too large for GitHub)
+- `best.pt` → Trained YOLOv8 with custom Data 
 - `requirements.txt` → Python dependencies
 - `output_detected.jpg` → Example detection imgs
 
